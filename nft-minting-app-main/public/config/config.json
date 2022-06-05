@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7D5B2258E1f7593854571F17e2A999d183De1b40",
+  "SCAN_LINK": "https://etherscan.io/address/0x7d5b2258e1f7593854571f17e2a999d183de1b40",
+  "NETWORK": {
+    "NAME": "Etherscan",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Galactic_Federation",
+  "SYMBOL": "GF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nasty-bug",
+  "SHOW_BACKGROUND": true
+}
